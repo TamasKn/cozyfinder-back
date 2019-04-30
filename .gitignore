@@ -2,7 +2,8 @@
 /node_modules
 
 #Files
-.keys
+/.keys
+/.env
 
 # IDE
 .idea/
